@@ -1,0 +1,51 @@
+.water-source-heading{
+    font-size: 32px;
+    font-weight: 600;
+    color: #252525;
+    text-align: center;
+    margin-bottom: 21px;
+}
+
+.water-source-content{
+    width: 1073px;
+    font-size: 16px;
+    color: #7a7a7a;
+    line-height: 28.8px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.water-source-image-box{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.water-source-image{
+    height: 400px;
+    border-radius: 3px;
+}
+
+.water-sorce-link-boxes1{
+    width: 375px;
+    display: flex;
+    transform: translate(133px, 17px);
+    gap: 14px;
+    margin-bottom: 57px
+}
+
+.water-source-link-box{
+    padding: 20px 34px;
+    cursor: pointer;
+}
+
+.water-source-link-box.active{
+    width: 185px;
+    border-bottom: 2px solid #00ad50;
+}
+
+.water-source-link{
+    text-decoration: none;
+    color: #00ad50;
+}

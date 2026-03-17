@@ -1,0 +1,48 @@
+.hot-water-biography{
+  background-image: url("src/image/mainad2.2fbd31e7.png");
+  padding: 16px 133px;
+  width: 1351px;
+  height: 620px;
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.hot-water-biography-content-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.newbottles{
+  margin-top: 50px;
+  width: 800px;
+  height: 620px;
+}
+
+.hot-water-biography-content-heading{
+  width: 350px;
+  font-size: 55px;
+  margin-bottom: 20px;
+  transform: translateY(28px);
+}
+
+.hot-water-biography-content{
+  width: 343px;
+  font-size: 16px;
+  color: #8d8d8d;
+  line-height: 28.8px;
+  transform: translateY(28px);
+  margin-bottom: 42px;
+}
+
+.hot-water-biography-button-box{
+  width: 138px;
+  padding: 20px 34px;
+  background-color: rgb(0, 173, 80);
+  transform: translateY(15px);
+}
+
+.hot-water-biography-button{
+    color: rgb(255, 255, 255);
+}

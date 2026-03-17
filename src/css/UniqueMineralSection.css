@@ -1,0 +1,46 @@
+.unique-mineral-box{
+    height: 379px;
+    background-color: #ddeee5;
+    margin-top: 13.9rem;
+    padding-top: 70px;
+}
+
+.unique-content-button-box1{
+    font-size: 18px;
+    font-weight: 600;
+    width: 174px;
+    padding: 8px 31px 7px 32px;
+    border-radius: 39px;
+    color: #046a38;
+    border: 1px solid #046a38;
+    margin: 0 auto;
+}
+
+.unique-content-heading{
+    font-size: 35px;
+    font-weight: 600;
+    color: #252525;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.unique-content{
+    width: 1252px;
+    font-size: 16px;
+    color: #535353;
+    line-height: 28.8px;
+    padding-bottom: 21px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.unique-content-button-box2{
+    width: 218px;
+    padding: 20px 34px;
+    background-color: rgb(4, 106, 56);
+    margin: 0 auto;
+}
+
+.unique-content-button2{
+    color: rgb(255, 255, 255);
+}

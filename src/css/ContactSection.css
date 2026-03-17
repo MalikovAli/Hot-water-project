@@ -1,0 +1,30 @@
+.contact-section-box{
+    height: 300px;
+    margin-top: 11.7rem;
+}
+
+.contact-section-heading{
+    font-size: 50px;
+    font-weight: 700;
+    color: #0a142f;
+    text-align: center;
+    transform: translateX(-12px);
+}
+
+.contact-section-content{
+    font-size: 18px;
+    line-height: 33px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contact-button-box{
+    width: 227px;
+    padding: 20px 34px;
+    background-color: #252525;
+    margin: 0 auto;
+}
+
+.contact-button{
+    color: #fff;
+}

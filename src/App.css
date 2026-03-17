@@ -1,0 +1,178 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('./Helvetica.ttf') format('truetype');
+}
+
+.body{
+  font-family: 'Helvetica';
+}
+
+.subheader{
+  background-color: #252525;
+  height: 55px;
+  display: flex;
+  gap: 46px;
+  align-items: center;
+  padding: 5px 133px;
+}
+
+.contact-box{
+  display: flex;
+  gap: 23px;
+}
+
+.contact-content, .contact-number{
+  color: #e1e1e1;
+  font-size: 16px;
+  transform: translateX(27px);
+  font-weight: 300;
+}
+
+.subheader-icon-boxes{
+  display: flex;
+  gap: 12px;
+  transform: translateX(32.6rem)
+}
+
+.subheader-icon{
+  color: #fff;
+}
+
+.azerbaijan-flag{
+  width: 16px;
+  height: 16px;
+}
+
+.flag{
+  display: flex;
+  gap: 9px;
+  transform: translateX(269px);
+}
+
+.az, .down{
+  color: #fff;
+}
+
+.az{
+  font-size: 15px;
+}
+
+.down{
+  transform: translateX(-7px);
+}
+
+.hot-water{
+  width: 80px;
+  height: 80px;
+}
+
+.hot-water-heading{
+  padding: 20px 113px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+}
+
+.hot-water-heading-ul{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  list-style: none;
+  transform: translate(4px, -2px);
+}
+
+.hot-water-heading-ul > a{
+  color: #1e1e1e;
+  font-size: 18.667px;
+}
+
+.footer-boxes{
+    width: 1351px;
+    height: 328px;
+    padding: 20px 133px;
+    background-color: #0b0b0b;
+}
+
+.footer-image-box-content{
+    font-size: 18px;
+    line-height: 32.4px;
+    color: #8d8d8d;
+    transform: translate(40px, -13px);
+}
+
+.footer-image{
+    width: 174px;
+    height: 165px;
+}
+
+.footer-content-box{
+    display: flex;
+    gap: 42rem;
+}
+
+.footer-content-box1, .footer-content-box2{
+    text-align: right;
+    transform: translate(-138px, 76px);
+}
+
+.footer-content-box1{
+    display: flex;
+    gap: 40px;
+    transform: translate(-84px, 76px);
+}
+
+.footer-content-box2{
+    display: flex;
+    gap: 20px;
+    transform: translate(-61px, 76px);
+}
+
+.footer-content1, .footer-content2{
+    font-size: 16px;
+    color: #fff;
+    opacity: .7;
+}
+
+.footer-content3{
+    font-size: 18px;
+    color: #f1f1f1;
+}
+
+.footer-content1{
+    transform: translateX(20px);
+}
+
+.footer-content2{
+    transform: translateY(2px);
+}
+
+.footer-link1, .footer-link2{
+    font-size: 16px;
+    color: #fff;
+    margin-right: 20px;
+}
+
+.footer-link2{
+    transform: translateY(3px);
+}
+.footer-icon-boxes{
+  display: flex;
+  gap: 7px;
+  transform: translate(142px, 40px);
+}
+
+.footer-icon{
+  color: #fff;
+}
+
+.footer-content3{
+    text-align: center;
+    transform: translate(-3px, 3.5rem);
+}

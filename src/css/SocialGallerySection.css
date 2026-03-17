@@ -1,0 +1,35 @@
+.sosical-galery-boxes{
+    margin-top: 118px;
+}
+
+.sosical-galery-heading{
+    font-size: 60px;
+    font-weight: 300;
+    line-height: 71px;
+    color: #252525;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.sosical-galery-content{
+    font-size: 30px;
+    color: #8d8d8d;
+    text-align: center;
+    margin-bottom: 54px;
+}
+
+.sosical-galery-box1, .sosical-galery-box2{
+    width: 1172px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    transform: translateX(91px);
+}
+
+.sosical-galery-box1{
+    margin-bottom: 10px;
+}
+
+.sosical-galery-box1 > img, .sosical-galery-box2 > img{
+    width: 351px;
+}

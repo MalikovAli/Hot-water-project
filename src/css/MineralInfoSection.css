@@ -1,0 +1,195 @@
+.mineral-info-box{
+    background-image: url("src/image/newmountain.webp");
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 1351px;
+    height: 893px;
+}
+
+.mineral-info-heading{
+    font-size: 40px;
+    font-weight: 600;
+    color: #252525;
+    text-align: center;
+    transform: translateY(78px);
+    margin-bottom: 9.5rem;
+}
+
+.mineral-info-image-box{
+    text-align: center;
+    padding-left: 10px;
+    display: flex;
+}
+
+.mineral-info-image{
+    background-image: url("src/image/lastbottleimage.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 655px;
+    height: 1498px;
+    position: relative;
+    top: 21px;
+    left: 2.4%;
+    flex-shrink: 0;   /* əsas düzəldən budur */
+}
+
+.mineral-info-content-box1, .mineral-info-content-box2, .mineral-info-content-box3, .mineral-info-content-box4, .mineral-info-content-box5, .mineral-info-content-box6{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.mineral-info-content-box4{
+    transform: translate(-306px, 148px);
+}
+
+.mineral-info-content-box5{
+    transform: translate(-279px, 226px);
+}
+
+.mineral-info-content-box6{
+    transform: translate(-254px, 313px);
+}
+
+.mineral-info-content-box1{
+    transform: translate(219px, 145px);
+}
+
+.mineral-info-content-box2{
+    transform: translate(132px, 203px);
+}
+
+.mineral-info-content-box3{
+    transform: translate(132px, 246px);
+}
+
+.mineral-info-content-box2{
+    flex: none;
+}
+
+.mineral-info-content-heading-boxes{
+    display: flex;
+}
+
+.mineral-info-content-heading1, .mineral-info-content-heading2, .mineral-info-content-heading3, .mineral-info-content-heading4, .mineral-info-content-heading5, .mineral-info-content-heading6{
+    font-size: 20px;
+    font-weight: 800;
+    color: #046a38;
+}
+
+.mineral-info-content-heading1{
+    transform: translateX(-5px);
+}
+
+.mineral-info-content-heading3{
+    transform: translateX(13px);
+}
+
+.mineral-info-content-heading4{
+    transform: translateX(11px);
+}
+
+.mineral-info-content-heading5{
+    transform: translateX(13px);
+}
+.mineral-info-content-heading6{
+    transform: translateX(-5px);
+}
+.mineral-info-content1, .mineral-info-content1_2, .mineral-info-content1_3,.mineral-info-content3, .mineral-info-content5, .mineral-info-content6{
+    font-size: 16px;
+    font-weight: 800;
+    color: #7caf96;
+}
+
+.mineral-info-content1{
+    transform: translate(-55px, -27px);
+}
+
+.mineral-info-content1_2{
+    transform: translate(-55px, -27px);
+}
+
+.mineral-info-content1_3{
+    transform: translate(-37px, -27px);
+}
+
+.mineral-info-content3{
+    transform: translate(-22px, -27px);
+}
+
+.mineral-info-content5{
+    transform: translate(60px, -27px);
+}
+
+.mineral-info-content6{
+    transform: translate(17px, -29px);
+}
+
+.mineral-info-content7{
+    transform: translate(258px, -30px);
+    text-align: left;
+}
+
+.mineral-info-content8{
+    transform: translate(214px, -29px);
+    text-align: left;
+}
+
+.mineral-info-content2, .mineral-info-content2_2, .mineral-info-content2_3, .mineral-info-content4, .mineral-info-content7, .mineral-info-content8{
+    width: 310px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #8d8d8d;
+}
+
+.mineral-info-content2, .mineral-info-content2_2{
+    transform: translate(-55px, -30px);
+    text-align: right;
+}
+
+.mineral-info-content2_3{
+    text-align: right;
+    transform: translate(-36px, -30px);
+}
+
+.mineral-info-content4{
+    transform: translate(197px, -30px);
+    text-align: left;
+}
+
+.mineral-element-box1, .mineral-element-box2, .mineral-element-box3, .mineral-element-box4, .mineral-element-box5, .mineral-element-box6{
+    width: 50px;
+    height: 50px;
+    font-size: 16px;
+    padding: 17px 22px 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    border-radius: 70px;
+    border: 1px solid rgba(0,105,56,.19);
+    box-shadow: 0 4px 0 0 #006938;
+    background-color: #fff;
+    color: #046a38;
+}
+
+.mineral-element-box1, .mineral-element-box2{
+    transform: translate(13px, 4px);
+}
+
+.mineral-element-box3{
+    transform: translate(33px, -1px);
+}
+.mineral-element-box4, .mineral-element-box5{
+    transform: translate(-7px, 4px);
+}
+
+.mineral-element-box6{
+    transform: translate(-25px, 4px);
+}
+
+.mineral-info-right-content-box{
+    display: flex;
+    flex-direction: column;
+}

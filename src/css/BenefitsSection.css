@@ -1,0 +1,33 @@
+.benefit-image-box{
+  display: flex;
+  gap: 9.4rem;
+}
+
+.benefit-image{
+  transform: translateY(46px);
+}
+
+.benefit-content-box{
+  width: 898px;
+  transform: translateY(50px);
+}
+
+.benefit-heading{
+  font-size: 26px;
+  color: #252525;
+  
+}
+.benefit-content{
+  width: 994px;
+  font-size: 18px;
+  height: 105px;
+  margin-top: 40px;
+  line-height: 32.4px;
+}
+
+.benefit-ul > li{
+  font-size: 16px;
+  line-height: 32.4px;
+  color: #7a7a7a;
+  margin-bottom: 10px;
+}

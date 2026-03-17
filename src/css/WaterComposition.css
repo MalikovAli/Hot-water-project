@@ -1,0 +1,94 @@
+.water-sorce-link-boxes{
+    width: 380px;
+    display: flex;
+    transform: translate(133px, 17px);
+    gap: 14px;
+    margin-bottom: 36px
+}
+
+.water-source-link-box{
+    padding: 20px 34px;
+    cursor: pointer;
+}
+
+.water-source-link-box.active{
+    width: 185px;
+    border-bottom: 2px solid #00ad50;
+}
+
+.water-source-link{
+    text-decoration: none;
+    color: #00ad50;
+}
+
+.water-composition-heading1{
+    padding: 20px 133px;
+    font-size: 30px;
+    font-weight: 600;
+    color: #252525;
+}
+
+.water-composition-content1{
+    width: 1073px;
+    font-size: 20px;
+    color: rgb(158, 158, 158);
+    line-height: 36px;
+    transform: translate(134px, 18px);
+    margin-bottom: 55px;
+}
+
+.water-composition-link{
+    font-size: 20px;
+    line-height: 36px;
+    color: #002CF2;
+    text-decoration: none;
+}
+
+.water-compositon-heading2{
+    font-size: 20px;
+    color: #252525;
+    padding: 20px 133px;
+    margin-bottom: 39px;
+}
+
+.water-compisition-link-box1, .water-compisition-link-box2{
+    padding-left: 133px;
+}
+
+.water-compisition-link-box2{
+    margin-bottom: 67px;
+}
+
+table{
+    width: 1085px;
+    border-collapse: collapse;
+    transform: translateX(133px);
+    margin-bottom: 14px;
+}
+
+th{
+    border: 1px solid #ddd;
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: left;
+}
+
+td{
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+.water-composition-content2{
+    font-size: 20px;
+    font-weight: 600;
+    color: #252525;
+    padding: 20px 133px;
+}
+
+.water-compisition-image{
+    background-image: url("src/image/background.d0e8e5a9.png");
+    width: 1351px;
+    height: 80px;
+    background-size: cover;
+    background-position: 50%;
+}
